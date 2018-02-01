@@ -1,0 +1,84 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical"
+    android:fadingEdge="vertical">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/statis_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay"
+        app:titleTextAppearance="@style/Toolbar_TextAppearance_White"/>
+
+    <TextView
+        android:id="@+id/title_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/statis_toolbar"
+        android:text="卡路里一周摄入情况"
+        android:textSize="22dp"
+        android:layout_centerHorizontal="true"
+
+        />
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="320dip"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/title_line"
+        />
+
+    <TextView
+        android:id="@+id/title_pie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/chart"
+        android:text="营养摄入分布"
+        android:textSize="22dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/chart_pie"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/title_pie"
+    />
+
+    <TextView
+        android:id="@+id/title_walk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/chart_pie"
+        android:text="一周运动统计"
+        android:textSize="22dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/chart_walk"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/title_walk"
+        />
+
+</RelativeLayout>
+</ScrollView>
+

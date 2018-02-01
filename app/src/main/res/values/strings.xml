@@ -1,0 +1,586 @@
+<resources>
+    <string name="app_name">CalorieManager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">主页</string>
+    <string name="discover">发现</string>
+    <string name="statistic">统计</string>
+    <string name="login">登录</string>
+    <string name="system">Account</string>
+    <string name="swipe">SwipeBack</string>
+    <string name="takepicture">TakePic</string>
+    <string name="foodrec">食物识别</string>
+    <string name="go_swipe_back">SwipeBackActivity+Fragment</string>
+
+    <string name="recommend">运动推荐</string>
+    <string name="hot">美食速递</string>
+    <string name="favorite">发现周边</string>
+    <string name="set">设置</string>
+
+    <string name="password">密码</string>
+    <string name="register">注册</string>
+
+    <string name="camera">FoodCamera</string>
+
+    <string name="sure">确定</string>
+
+    <string name="reading_title">今日热读</string>
+
+
+    <string name="Calorie_token">"7601dc4ce3192d433ba40e7492069677"</string>
+
+    <string-array name="large_text">
+        <item>
+        "虽说一年四季皆有蟹吃，但是在秋天，才是吃蟹的最好季节。有说“秋风起，蟹脚痒；菊花开，闻蟹来”，每年9~10月正是螃蟹黄多油满之时，所以有食家言“秋天以吃螃蟹为最隆重之事”。\n\n"
+        "据说，蟹，自古就有“四味”之说。“大腿肉”，肉质丝短纤细，味同干贝；\n\n"
+        "“小腿肉”，丝长细嫩，美如银鱼；“蟹身肉”，洁白晶莹，胜似白鱼；“蟹黄”，含有大量人体必需的蛋白质、脂肪、磷脂、维生素等营养素，营养丰富。"
+        "正是如此，厨师们也是费尽苦心，搞了许多有关“蟹”美食创意，如生蒸大闸蟹、香辣蟹、姜葱蟹、椒盐蟹等。当然了，在美食之乡的顺德，你随时随处都可以品尝到“秋蟹”的各种滋味。\n\n"
+        "说秋天是吃蟹的季节，这是因为季节与蟹的生长质量有很大的关系，秋季是螃蟹生长最好的时期，它们的肉厚肥嫩，且味美色香，为一年当中最鲜美。什么膏蟹、肉蟹、大闸蟹等，都在秋天长得最好。\n"
+        </item>
+        <item>
+            "在饭桌上品尝美味的三文鱼时，我们中也许很少有人知道它们令人感动的生命故事。\n\n"
+            "三文鱼的一生令人惊叹！尤其令人感动的是它们生命的最后一刻。\n\n"
+            "从还是鱼卵的时候开始，它们的生命就经受了考验。每一条雌鱼能够产下大约4000个鱼卵，并想方设法将其藏在卵石下，但大量的鱼卵还是被其他鱼类和鸟类当作美味吃掉了——幸存下来的鱼卵躲在石头下面熬过冬天，慢慢发育成幼鱼。春天来临时，幼鱼便顺流而下，进入淡水湖，在湖中度过大约一年的时光，然后再顺流而下进入大海。在湖中的时候，尽管东躲西藏，大多数幼鱼依然逃不过被捕食的命运，每四条进入湖中的鱼就有三条被吃掉，只有一条能够进入大海。危险并没有停止，进入广袤的大海，意味着进入了一个更加危险的区域。在无边无际的北太平洋中，它们一边努力地长大，一边面对鲸鱼、海豹和其他鱼类的进攻，同时还有大量更具危险性的捕鱼船在威胁它们的生命。整整四年，经历无数艰险，它们才能长成重量在三公斤左右的成熟三文鱼。\n\n"
+            "成熟之后，一种内在的使命感召唤它们开始回家的旅程。10月初，所有成熟的三文鱼在佛雷瑟河口集结，浩浩荡荡地游向它们的出生地，这才是它们生命最辉煌最悲壮时刻的开始。从进入河口开始，它们就不再吃任何东西，全力赶路，在逆流而上的路途中消耗掉自身几乎所有的能量和体力。为了闯过一个个急流和险滩，它们要一次又一次地从水面上跃起。有些鱼跃到了岸上，变成了其他动物的美味；有些鱼在快要到达目的地的时候力竭而亡，和它们一起死去的还有肚子里的几千个鱼卵。在一路奋力而上的过程中，由于能量的大量消耗，鱼身变得浑身通红，鱼头变成了墨绿色。在最初那条雌鱼产下的每四千个鱼卵中，只有两个能够成活长大并最终回到产卵地。到达产卵地后，它们顾不上片刻休息，开始成双成对地挖坑产卵受精。为了得到更好更安全的产卵地，鱼与鱼之间进行着激烈的争夺。与此同时，白天有大量鹰隼俯冲而下抓捕三文鱼，晚上则有大量的熊和郊狼来参与捕食。产卵受精完毕之后，三文鱼精疲力竭双双死去，河水中到处漂浮着死去的三文鱼。它们在生命最后的挣扎中完成了自己的使命，把新一轮生命让给后代，结束了只为繁殖下一代而进行的死亡之旅。冬天来临，白雪覆盖大地，整个世界一片静谧。在寂静的河水下面，新的生命开始成长。\n\n"
+            "三文鱼的一生，充满了危险和悲壮，它们克服种种困难，躲避无数危险，在生命的最后时刻，搏击逆流，洄游产卵，为自己的生命画上句号。这样做也许只是遗传和基因使然，并不是一种自觉的精神意识。但在我们人类看来，这一现象依然令人感动，让我们思索和振奋。三文鱼的一生贯穿着明晰的生命主线：成长，不顾各种艰难险阻地成长；体验，不管大海多么不可预测，也要去体验从平静湖水游向大海的过程；使命，不管遭遇多少险阻都要完成一生的使命，返回出生地去繁衍后代，就算以生命为代价也在所不惜。三文鱼的一生因这条生命的主线而变得慷慨悲壮，震撼人心。\n\n"
+            "人类生命的进程中，也应该有非常明晰的生命主线。我们应该努力成长，不惜一切代价使生命变得成熟。为了成熟我们应该去体验，体验自然、人文、社会和历史，由此使我们的生命臻于完美。我们更需要使命感，因为人活着不仅仅是为了活着，生命的背后有使命存在。这些使命也许各不相同，但从终极意义上来说应该是一致的，就是努力让我们和我们的后代在更加和谐自然的世界中幸福地生活。\n\n"
+            "在现实生活中，有太多的人忘记了自己需要成长，变得懒惰、无聊和平庸；有太多的人忘记了应该去体验，变得胆怯、狭隘和固执；有太多的人忘记了自己承担的使命，变得苍白、迷茫和失落。\n\n"
+            "在三文鱼洄游的季节，来到河边的人成千上万。在观看三文鱼生死搏击的同时，我们是否能从它们身上得到一点点感悟，并且重新开始思考自己的生命历程呢？\n"
+        </item>
+        <item>"材料:（34CM×24CM盆份量）\n
+            蛋4个(大)  \n
+            细砂糖40克  \n
+            盐1/4茶匙\n
+            低粉80克  \n
+            玉米粉(CornStarch)10克  \n
+            抹搽粉10-15克   \n
+            色拉油50克   \n
+            橘子汁50克   \n
+            香草精(VanillaEssence)1/4茶匙 \n
+            泡打粉1/2茶匙 \n
+            细砂糖60克   \n
+            塔塔粉少许  \n
+            蜜红豆(RedBean)适量  \n\n
+
+            发泡奶油材料: \n
+            无盐奶油(UnsaltedButter)225克   \n
+            糖粉90克   \n
+            蓝姆酒(RUM)10克   \n \n
+
+            准备: \n
+            长方型烤盘一个铺上烤盘纸在均匀洒上蜜红豆备用. \n \n
+
+            制作 \n
+            1.把蛋黄、糖、盐搅拌到呈乳白色+色拉油、橘子汁、香草精拌匀。 \n
+            2.低粉、玉米粉、抹搽粉，泡打混合筛入(1)内搅拌均匀成为面糊备用。 \n
+            3.蛋白打至起粗泡，再把事先混合好的糖和塔塔粉分2次加入，搅打至8分发(湿性发泡)。 \n
+            4.取1/3蛋白加入蛋黄糊中稍微拌合，再倒入蛋白糊中轻轻拌匀即可。 \n
+            5.拌好的面糊倒入烤盘内表面用刮板抹平，轻敲烤盘一下即送进烤箱以180℃/160℃烤约15-20分钟，蛋糕烤好出炉后再轻敲一下，待稍凉，抹上发泡奶油卷成圆筒状，入冰箱冷藏20分钟定型，即可切片食用。 \n
+            6.发泡奶油制作：奶油+糖粉打至呈乳白色+蓝姆酒再继续打到膨松状即完成。 \n"</item>
+        <item>很多人都认为跑步可以强身健体、减肥、改善身形，最多再加上一个泡妞。但如果仅此而已，那只能说你对于跑步还是一知半解。一群来自国外的科学家，用几年甚至是十几年的研究结果告诉你，跑步的好处远不止停留在你的眼睛所能看到的，它对于很多疾病的治疗能力甚至超过药物。只要你愿意迈开双脚，你身上那些无形的改变就是跑步最大的魔力。\n\n
+            瑞典哥德堡大学的研究人员发现偏头痛最大的克星就是跑步，因为跑步可以有效地调节神经系统。如果一个偏头痛患者每周进行三次长达40分钟的运动，特别是跑步，那么三个月之后他的症状就会明显减轻。美国的神经内科学家也在行医的过程中发现了这一点，在他的记录中有16个连药物也治不好的偏头痛患者通过六个月到两年的慢跑锻炼最终战胜了偏头痛，他们不仅症状得到了缓解，还能摆脱药罐子的束缚。\n\n
+            耳朵和双腿，这两样器官看上去风马牛不相及，不过其中却暗藏着玄机。美国贝拉明大学的学者发现经常跑步的人比平时不锻炼的平均听力要好上六个百分点。原因是每当你迈开双腿跑步时，体内的血液循环系统可以得到改善，特别是耳朵的血液循环，让耳朵能够更好地吸收养分，从而保护听力。\n\n
+            虽然癌症目前为止还是一个无法攻克的医学难题，但多项研究已经证明跑步就是防癌中相当有效的一种。芬兰学者对2560名中年男性进行了长达17年的跟踪研究，发现勤于运动的人们患上胃肠道以及肺部的癌症的概率要小得多。专家称慢跑时人体吸入了比平常多几倍甚至是几十倍的氧气，使得全身的脏器官都能更好地运作。如果长期缺乏锻炼的话，在缺氧状态下的癌细胞科比平常活跃得多。此外，由于跑步还能帮助女性规避了因多余的脂肪所造成的乳腺癌、子宫内膜癌的风险。美国癌症协会亚特兰大分会科学家完成的研究显示，与每周步行三个小时以下的女性测试者相比，每周步行七小时以上的女性测试者乳腺癌确诊率低14%。\n\n
+            如果你以为跑步只是一项体力活，那你就大错特错了：跑步其实也是一项“脑力活”。来自英国剑桥大学的一份科学研究报告向人们揭示了跑步和智力之间的关系。根据研究的结果，一周抽出几天时间来慢跑，能刺激大脑、提高自身的思维能力。数以万计的人都在跑步几天之后在大脑记忆关联区域出现了新的脑细胞，这无疑增强了跑者的记忆能力，让他们学的更快也更有效率。难怪许多科学家与各领域大咖们都是跑步爱好者。\n
+        </item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="image_transition">image_transition</string>
+    <string name="press_again_exit">Press again to exit</string>
+    <string name="send">Send</string>
+    <string name="sign_in_success">Sign in successful, NavigationView\'s name has changed</string>
+    <string name="can_swipe">can be swipe-back</string>
+    <string name="upper_process">Passed to the upper processing!</string>
+
+    <string name="anim_v">Set animation: Vertical</string>
+    <string name="anim_h">Set animation: Horizontal</string>
+    <string name="anim_none">Set animation: None</string>
+    <string name="anim">anim</string>
+    <string name="account">用户名</string>
+    <string name="modify_title">Modify the title successfully</string>
+    <string name="modify_success">Modify successfully!</string>
+    <string name="error_username">This username is invalid</string>
+    <string name="error_pwd">This password is invalid</string>
+    <string name="tip_single_multi">Single Activity + Multi-Fragments:</string>
+    <string name="btn_basic">Demo1: Similar to GooglePlay</string>
+    <string name="btn_normal">Demo2: Similar to Instagram</string>
+    <string name="btn_complicated">Demo3: Complicated nested</string>
+    <string name="start_cycler">Start CyclerFragment</string>
+    <string name="start_with_pop">Start CyclerFragment, and finish self</string>
+    <string name="modify">Modify Title</string>
+    <string name="settings">Settings</string>
+    <string name="action_anim_v">Set animation:Vertical(Default)</string>
+    <string name="swipe_back">Swipe back</string>
+
+    <string name="time">2 days ago</string>
+    <string name="msg">Msg</string>
+    <string name="all">All</string>
+
+    <string name="start_result_test">StartForResult Sample</string>
+    <string name="more">more</string>
+    <string name="me">Me</string>
+    <string name="hot_news">精选好文</string>
+    <string name="new_tip_start_dont_hide">Customize the animation between the Fragments, and do not hide self</string>
+    <string name="new_tip_start">Customize the animation between the Fragments</string>
+
+    <string-array name="array_title">
+        <item>秋天--吃螃蟹的最好季节</item>
+        <item>三文鱼的生命旅程</item>
+        <item>抹茶与红豆</item>
+        <item>跑步的好处</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="array_content">
+        <item>据说，蟹，自古就有“四味”之说。“大腿肉”，肉质丝短纤细，味同干贝；“小腿肉”，丝长细嫩，美如银鱼；“蟹身肉”，洁白晶莹，胜似白鱼；“蟹黄”，含有大量人体必需的蛋白质、脂肪、磷脂、维生素等营养素，营养丰富。</item>
+        <item>在饭桌上品尝美味的三文鱼时，我们中也许很少有人知道它们令人感动的生命故事。三文鱼的一生令人惊叹！尤其令人感动的是它们生命的最后一刻。</item>
+        <item>抹茶与红豆，天生的一对，清香的抹茶配上甜蜜浓郁的红豆，碧绿与深红带来了不可替代的美味，就像相融相嵌的爱恋，绝对给人味觉上难以抵挡的诱惑。</item>
+        <item>一群来自国外的科学家，用几年甚至是十几年的研究结果告诉你，跑步的好处远不止停留在你的眼睛所能看到的，它对于很多疾病的治疗能力甚至超过药物。只要你愿意迈开双脚，你身上那些无形的改变就是跑步最大的魔力。</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="sports_rank_title">
+        <item>滑滑的滑雪</item>
+        <item>菜鸡的篮球</item>
+        <item>懒人运动-麻将</item>
+        <item>安然无恙的跳水</item>
+        <item>作死不死之跳伞</item>
+        <item>小球转动大球</item>
+        <item>我是阿甘</item>
+        <item>程序员体操</item>
+        <item>文明观球</item>
+        <item>解密香港记者跑步</item>
+        <item>天降正义之铅球</item>
+        <item>愤怒的程序员</item>
+        <item>我书读的多不会骗人的</item>
+    </string-array>
+
+    <string-array name="sports_rank_content">
+        <item>
+            滑雪运动是运动员把滑雪板装在靴底上在雪地上进行速度、跳跃和滑降的竞赛运动。滑雪板用木材、金属材料和塑料混合制成。高山滑雪由滑降，小回转和大回转（障碍滑雪）组成。高山滑雪混合项目，由上述三个项目组成。人们成站立姿态，手持滑雪杖、足踏滑雪板在雪面上滑行的运动。“立”、“板”、“雪”、“滑”是滑雪运动的关键要素。
+        </item>
+        <item>
+            不懂的篮球这项运动的人，肯定不会喜欢篮球，因为你不懂的热爱！篮球是热爱者的尤物，热爱者喜欢这样淋漓尽致的飘逸，我们为此坚强、阳光。球场上：精准的投篮，严密的防守，给力的盖帽，巧妙的传球，华丽的运球，暴力的扣篮，犀利的突破，飘逸的滞空动作，我们用娴熟的假动作，撕开你那丑陋的防守，我们为此热血澎湃！因为—热爱！！！
+           “啪、啪、啪、、、”球落地，被拍起。这样有节奏的跳跃，这样奇妙的声音，我们热爱！正如热爱者起伏的心跳，它随热血慢慢贯穿我们身体的每一个角落，是我们投篮、运球突破的精神能量。鹅冠状的标准手型，手腕拨动、篮球在空中划出一道美丽的弧线，“唰！”空心入网，翻出一道白浪，球进了。我们内心呐喊，我们吹响了胜利的号角。
+            我们喜欢在球场上角斗，技不如人，千万别求虐，最好找个地自个奋发去，因为篮球很残酷。我们喜欢RAP风格的音乐，手中的篮球随着音乐有节奏的跳动，我们努力过、坚强过！我们很倔强！我们不怕输！因为我们有一颗永不服输的心！
+        </item>
+        <item>
+            麻将，起源于中国，粤港澳地区俗称麻雀，由中国古人发明的博弈游戏，娱乐用具，一般用竹子、骨头或塑料制成的小长方块，上面刻有花纹或字样，北方麻将每副136张，南方麻将多八个花牌，分别是春夏秋冬，梅竹兰菊，共计144张。
+            四人骨牌博戏，流行于华人文化圈中。
+            在明末清初马吊牌盛行的同时，由马吊牌又派生出一种叫“纸牌”的戏娱用具。纸牌开始共有60张。斗纸牌时，四人各先取十张，以后再依次取牌、打牌。一家打出牌，两家乃至三家同时告知，以得牌在先者为胜。这些牌目及玩法就很像今天的麻将牌了。这种牌戏在玩的过程中始终默不作声，所以又叫默和牌。
+            2017年4月，国际智力运动联盟宣布，麻将正式成为世界智力运动项目。
+        </item>
+        <item>
+            跳水（Diving[1]  ）是一项优美的水上运动，它是从高处用各种姿势跃入水中或是从跳水器械上起跳，在空中完成一定动作姿势，并以特定动作入水的运动。
+            跳水运动包括实用跳水、表演跳水和竞技跳水。跳水运动在跳水池中进行。跳水运动员从1米跳板，3米跳板，或从3米，5米，7.5米和10米跳台跳水。跳水运动要求拥有空中的感觉，协调，柔韧性，优美，平衡感和时间感等素质。
+            竞技跳水是一项由个人参加的竞赛项目。跳水运动员本人由跳台或跳板腾空，运动员可以直接入水或在空中做各种难度的体操花样动作，以干净利索而优美的姿势入水。我国出色的跳水运动员有田亮，郭晶晶，吴敏霞等。
+            跳水是指运动者在一定高度的器械上起跳，完成空中动作后，以入水为结束的一项水上技巧运动。跳水运动一般可分为竞赛性跳水和非竞赛性跳水两大类。
+        </item>
+        <item>
+            跳伞运动是指跳伞员乘飞机、气球等航空器或其他器械升至高空后跳下，或者从陡峭的山顶、高地上跳下，并借助空气动力和降落伞在张开降落伞之前和开伞后完成各种规定动作，并利用降落伞减缓下降速度在指定区域安全着陆的一项体育运动。
+            它以自身的惊险和挑战性，被世人誉为“勇敢者的运动”。目前，在我国有多个跳伞俱乐部，及商业性跳伞公司，旨在为推广中国航空运动为己任！
+        </item>
+
+        <item>
+            乒乓球（ping-pong），中国国球，是一种世界流行的球类体育项目，包括进攻、对抗和防守。比赛分团体、单打、双打等数种；以11分为一局，采用五局三胜，七局四胜。乒乓球为圆球状，重2.53-2.70克，白或橙色，用赛璐珞或塑料制成。
+            乒乓球起源于英国，"乒乓球"一名起源自1900年，因其打击时发出“Ping Pong”的声音而得名，在中国大陆以“乒乓球”作为它的官方名称，香港及澳门等地区亦同。1926年，在德国柏林举行了国际乒乓球邀请赛。后被追认为第一届世界乒乓球锦标赛，同时成立了国际乒乓球联合会。
+        </item>
+        <item>
+            跑步的定义是指陆生动物使用足部移动。它在运动上的定义是一种步伐，双脚不会同一时间踫到地面。它亦可以是一种有氧的运动或厌氧的运动。
+            跑步锻炼是人们最常采用的一种身体锻炼方式，这主要是因为跑步技术要求简单，无需特殊的场地、服装或器械。无论在健身房、运动场或马路上，甚至在田野间、树林中均可进行跑步锻炼。可以自己掌握跑步的速度、距离和路线。关注健身与跑步，是对体能最基本的要求，要跑步，要先健身，加强体魄，避免跑步影响身体健康。
+        </item>
+        <item>
+            手操也属于健美操，主要针对人们日常中的具体问题与具体对象而设计。民间医学从多年的研究中发现，手指对于人的健康起到了十分重要的作用，手操能起到消除疲劳、减轻精神负担、缓解紧张情绪的神奇功能。每个人的10个手指都对应着身体的某个部分，并起到调节和梳理的作用。
+        </item>
+        <item>
+            嘿嘿嘿
+        </item>
+        <item>
+            竞走（Race Walking），是从日常行走的基础上发展出来的运动，规则规定支撑腿必须伸直，从单脚支撑过渡到双脚支撑，在摆动腿的脚跟接触地面前，后蹬腿的脚尖不得离开地面，以确保没有出现“腾空”的现象，而这也是竞走与跑步的主要分别。普通走步的速度，每小时约五公里左右，而竞走的速度则快得多，即使用中等速度走，也要比普通走快一倍以上。竞走比赛最先出现于1775年至1800年间的英国，男子竞走于1908年伦敦奥运会正式成为比赛项目；女子竞走比赛始于1932年的捷克，直至1992年的奥运会，女子10千米竞走才正式成为比赛项目。
+        </item>
+        <item>
+            铅球是田径运动的投掷项目之一，它对增强体质，特别是发展躯干和上下肢力量有显著的作用。最早期是采用原地推铅球的技术，后来经过时间的演变，逐渐出现了林林总总的方法，如侧向前、侧向滑步推。用废弃的铅制炮弹代替石头进行模拟训练，是现代铅球的直接起源。
+        </item>
+        <item>
+            电子竞技（Electronic Sports）就是电子游戏比赛达到“竞技”层面的体育项目。电子竞技运动就是利用电子设备作为运动器械进行的、人与人之间的智力对抗运动。通过运动，可以锻炼和提高参与者的思维能力、反应能力、心眼四肢协调能力和意志力，培养团队精神。电子竞技也是一种职业，和棋艺等非电子游戏比赛类似，2003年11月18日,国家体育总局正式批准,将电子竞技列为第99个正式体育竞赛项。2008年,国家体育总局将电子竞技改批为第78个正式体育竞赛项。
+            当地时间2017年10月28日，在瑞士洛桑举行的国际奥委会第六届峰会上，代表们对当前电子竞技产业的快速发展进行了讨论，最终同意将其视为一项“运动”。
+        </item>
+        <item>
+            说了不骗你的
+        </item>
+
+    </string-array>
+
+    <string-array name="food_rank_content"
+                  formatted="false">
+        <item>
+            烤鸭是具有世界声誉的北京著名菜式，起源于中国南北朝时期，《食珍录》中已记有炙鸭，在当时是宫廷食品。用料为优质肉食鸭北京鸭，果木炭火烤制，色泽红润，肉质肥而不腻，外脆里嫩。北京烤鸭分为两大流派，而北京最著名的烤鸭店也即是两派的代表。它以色泽红艳，肉质细嫩，味道醇厚，肥而不腻的特色，被誉为“天下美味”。\n\n
+            相传，烤鸭之美，是源于名贵品种的北京鸭，它是当今世界最优质的一种肉食鸭。据说，\n\n
+            这一特种纯北京鸭的饲养，约起于千年前左右，是因辽金元之历代帝王游猎，偶获此纯白野鸭种，后为游猎而养，一直延续下来，才得此优良纯种，并培育成今之名贵的肉食鸭种。即用填喂方法育肥的一种白鸭，故名“填鸭”。不仅如此，北京鸭曾在百年以前传至欧美，经繁育一鸣惊人。因而，作为优质品种的北京鸭，成为世界名贵鸭种来源已久。\n\n
+            明初年间，老百姓爱吃南京板鸭，皇帝也爱吃，据说明太祖朱元璋就“日食烤鸭一只”。宫廷里的御厨们就想方设法研制鸭馔的新吃法来讨好万岁爷，于是也就研制出了叉烧烤鸭和焖炉烤鸭这两种。叉烧烤鸭以“全聚德”为代表，而焖炉烤鸭则以“便宜坊”最著名。金陵烤鸭是选用肥大的草鸭为原料，净重要求在2．5公斤左右。\n\n
+            据说，随着明成祖（即朱棣）篡位迁都北京后，也顺便带走了不少南京里烤鸭的高手。在嘉靖年间，烤鸭就从宫廷传到了民间，老“便宜坊”烤鸭店就在菜市口米市胡同挂牌开业，这也是北京第一家烤鸭店。而当时的名称则叫“金陵片皮鸭”，就在老“便宜坊”的市幌上还特别标有一行小字：金陵烤鸭。\n\n
+            在1864年，京城名气最大的“全聚德”烤鸭店也挂牌开业，烤鸭技术又发展到了“挂炉”时代。它是用果木明火烤制并具有特殊的清香味道，不仅使烤鸭香飘万里而且还使得“北京烤鸭”取代了“南京烤鸭”，而“金陵片皮鸭”只能在港澳、深圳、广州等南方几个大城市的菜单上才能见到。\n\n
+        </item>
+        <item>
+            麻婆豆腐（Mapo doufu），是四川省传统名菜之一，属于川菜。主要原料为配料和豆腐，材料主要有豆腐、牛肉末（也可以用猪肉）、辣椒和花椒等。麻来自花椒，辣来自辣椒，这道菜突出了川菜“麻辣”的特点。其口味独特，口感顺滑。\n\n
+            如今，麻婆豆腐远渡重洋，在美国、加拿大、英国、法国、越南、新加坡、马来西亚、日本、澳大利亚等国安家落户，从一味家常小菜一跃而登上大雅之堂，成了国际名菜。\n\n
+            婆豆腐始创于清朝同治元年（1862年），在成都万福桥边，有一家原名“陈兴盛饭铺”的店面。店主陈春富（陈森富）早殁，小饭店便由老板娘经营，女老板面上微麻，人称"陈麻婆"。当年的万福桥是一道横跨府河，常有苦力之人在此歇脚、打尖。光顾饭铺的主要是挑油的脚夫。陈氏对烹制豆腐有一套独特的烹饪技巧，烹制出的豆腐色香味俱全，不同凡响，深得人们喜爱，她创制的烧豆腐，则被称为“陈麻婆豆腐”，其饮食小店后来也以“陈麻婆豆腐店”为名。\n\n
+            《锦城竹枝词》、《芙蓉话旧录》等书对陈麻婆创制麻婆豆腐的历史均有记述。《锦城竹枝词》云：“麻婆陈氏尚传名，豆腐烘来味最精，万福桥边帘影动，合沽春酒醉先生”。《成都通览》记载陈麻婆豆腐在清朝末年便被例为成都著名食品。\n\n
+        </item>
+        <item>
+            西湖醋鱼的历史，源于南宋京都临安（今杭州），得从南宋杭州的“宋嫂鱼羹”说起。\n\n
+            宋五嫂，为南宋著名民间女厨师，高宗赵构乘龙舟西湖，曾尝其鱼羹，赞美不已，于是名声大振，奉为脍鱼之“师祖”。从此，宋嫂鱼羹，遂扬名于世。其后又经名手整治，乃成西湖醋鱼与宋嫂鱼羹两种名菜，流传至今。\n\n
+            民国时期，文人梁实秋曾记载过该菜的烹饪方法：选用西湖草鱼，鱼长不过尺，重不逾半斤，宰割收拾过后沃以沸汤，熟即起锅，勾芡调汁，浇在鱼上，即可上桌。如今在杭州几个著名饭店都有这道菜，但杭州居民家中平不常见，现在部分饭店已经用鲈鱼替代。\n\n
+            西湖醋鱼选材精细，通常选用一斤半左右的草鱼。烹制时，火候要求严，仅能用三四分钟烧得恰到好处。盛菜时，浇上一层糖醋。成菜色泽红亮，吃起来，鱼肉嫩美，带有蟹味，酸甜可口，别具特色 。\n\n
+            草鱼含有丰富的不饱和脂肪酸，对血液循环有利，是心血管病人的良好食物；草鱼含有丰富的硒元素，经常食用有抗衰老、养颜的功效，而且对肿瘤也有一定的防治作用；并具有暖胃和中、平肝祛风、治痹、截疟、益肠明眼目之功效，主治虚劳、风虚头痛、肝阳上亢、高血压、头痛、久疟  。\n\n
+            相传古时有宋姓兄弟两人，满腹文章，很有学问，隐居在西湖以打鱼为生。当地恶棍赵大官人有一次游湖，路遇一个在湖边浣纱的妇女，见其美姿动人，就想霸占。派人一打听，原来这个妇女是宋兄之妻，就施用阴谋手段，害死了宋兄。恶势力的侵害，使宋家叔嫂非常激愤，两人一起上官府告状，企求伸张正气，使恶棍受到惩罚。他们哪知道，当时的官府是同恶势力一个鼻孔出气的，不但没受理他们的控诉，反而一顿棒打，把他们赶出了官府。\n\n
+            回家后，宋嫂要宋弟赶快收拾行装外逃，以免恶棍跟踪前来报复。临行前，嫂嫂烧了一碗鱼，加糖加醋，烧法奇特。宋弟问嫂嫂：今天鱼怎么烧得这个样子?嫂嫂说：鱼有甜有酸，我是想让你这次外出，千万不要忘记你哥哥是怎么死的，你的生活若甜，不要忘记老百姓受欺凌的辛酸之外，不要忘记你嫂嫂饮恨的辛酸。弟弟听了很是激动，吃了鱼，牢记嫂嫂的心意而去。后来，宋弟在外立志苦读取得了功名，回到杭州报了杀兄之仇，把那个恶棍惩办了。可这时宋嫂已经逃遁而走，一直查找不到。有一次，宋弟出去赴宴，宴间吃到一个菜，味道就是他离家时嫂嫂烧的那样，连忙追问是谁烧的，才知道正是他嫂嫂的杰作。原来，从他走后，嫂嫂为了避免恶棍来纠缠，隐名埋姓，躲入官家做厨工。宋弟找到了嫂嫂很是高兴，就辞了官职，把嫂嫂接回了家，重新过起捕鱼为生的渔家生活。\n\n
+            后来有人吃了这个菜，诗兴大发，在菜馆墙壁上写了一首诗：“裙屐联翩买醉来，绿阳影里上楼台；门前多少游湖艇，半自三潭印月回。何必归寻张翰鲈（誉西湖醋鱼胜过味美适口的松江鲈鱼），鱼美风味说西湖；亏君有此调和手，识得当年宋嫂无。”诗的最后一句，指的就是“西湖醋鱼”的传说 。\n\n
+        </item>
+        <item>
+            抹茶（中国古时称作末茶）起源于中国隋唐，将春天的茶叶的嫩叶，用蒸汽杀青后，做成饼茶（团茶）保存。食用前放在火上再次烘焙干燥，用天然石磨碾磨成粉末。\n\n
+            自古以来，文人墨客留下了大量的咏叹抹茶的诗篇，“碧云引风吹不断，白花浮光凝碗面”就是唐代诗人卢仝对抹茶的赞美之词。\n\n
+            早在唐朝年间，人们就发明了蒸青散茶（碾茶），还审订了评茶色香味的方法，并成为人们不可或缺的日常饮料。到了宋朝更发展为茶宴，当时最为有名的评茶专家、大文豪蔡襄在《茶录》中评述斗茶方法：清朝茹敦和在越言释中说，古者茶必有点，其硙茶（抹茶）为撮泡茶，必择一二佳果点心，谓之点茶。这里所指的抹茶冲饮之道即为唐宋年间的中国茶道，由此可见，中国茶道（抹茶）已有一千多年的历史了，比现今的乌龙茶道还早了几百年。自明代以来，不再流行抹茶了，而改用茶叶，冲泡喝汤，弃置茶渣。\n\n
+            抹茶(Matcha)的原料是一种没有经过揉捻的小茶片，它的制作有两个关键词：覆盖和蒸青。春茶在采摘前20天必须搭设棚架，覆盖芦苇帘子和稻草帘子，遮光率达到98%以上，也有简易覆盖，用黑色塑料纱网覆盖的，遮光率只能达到70～85%。实验证明用不同材质、颜色的物品给茶遮光产生的效果是不同的。\n\n
+            日本学者竹井瑶子的研究显示∶“覆盖遮荫改变了光照强度、光质、温度等环境因素，因而影响到茶叶香气品质的形成。露天茶不含B-檀香醇，除低级脂肪族化合物的含量较高外，其他香气成分的含量明显低于遮荫茶”。经过覆盖的绿茶叶绿素和氨基酸明显增加，类胡萝卜素为露天栽培的1．5倍，其氨基酸总量为自然光栽培的1.4倍，叶绿素为自然光裁培的1.6倍。\n\n
+        </item>
+        <item>
+            清朝时期，由新疆等地迁来无为县定居的五十余户回民首创，以鼓楼口林鸿兴经营的板鸭最有名。当时的做法是：选用2公斤上下的麻鸭，宰杀洗净后，翅下开口去内脏灌水洗净后，放入食盐，灌进硝水晃动，再入缸腌制，先腌鸭身，两小时后将鸭头朝下，再腌两小时，挂在风口晾干水分。接着用细铁棍作架，将鸭置上，下以木屑缓慢燃烧熏烤，每隔五分钟翻熏一次，待到鸭坯色泽金黄闻到香味，加八角等香料入布袋并扎口，放进注水锅内，再加香菇等辅料，烧开后，放入熏烤过的鸭坯，用小火约炖十分钟，再用柴灰压火焖三十分钟即可。\n\n
+        </item>
+        <item>
+            东坡肉相传为北宋词人苏东坡（四川眉山人）所创制，最早发源地是四川眉山。原型是徐州回赠肉， 为徐州“东坡四珍”之一。\n\n
+            宋神宗熙宁十年（1077年）四月，苏轼赴任徐州知州。七月七日，黄河在澶州曹村埽一带决口，至八月二十一日洪水围困徐州，水位竟高达二丈八尺。苏轼以身卒之，亲荷畚插，率领禁军武卫营，和全城百姓抗洪筑堤保城。经过七十多个昼夜的艰苦奋战，终于保住了徐州城。全城百姓无不欢欣鼓舞，他们为感谢这位领导有方，与徐州人民同呼吸、共存亡的好知州，纷纷杀猪宰羊，担酒携菜上府慰劳。苏轼推辞不掉，收下后亲自指点家人制成红烧肉，又回赠给参加抗洪的百姓。百姓食后，都觉得此肉肥而不腻、酥香味美，一致称他为“回赠肉”。此后，“回赠肉”就在徐州一带流传，并成徐州传统名菜。这在《徐州文史资料》、《徐州风物志》、《徐州古今名馔》中都有记述。\n\n
+            元丰三年(公元1080年)二月一日，苏轼被贬到黄州任团练副使。他自己开荒种地，便把此地号称“东坡居士”。这就是“苏东坡”的由来。在黄州期间，他亲自动手烹饪红烧肉并将经验写入《食猪肉诗》中。苏轼在徐州及黄州时烹制的红烧肉，只是在当地有影响，在全国并没有多大名气。真正叫得响并闻名全国的红烧肉，是苏轼第二次在杭州时的“东坡肉”  。\n\n
+            宋哲宗元祐四年（1089年）一月三日，苏轼来到阔别十五年的杭州任知州。元祐五年五、六月间，浙西一带大雨不止，太湖泛滥，庄稼大片被淹。由于苏轼及早采取有效措施，使浙西一带的人民度过了最困难的时期。他组织民工疏浚西湖，筑堤建桥，使西湖旧貌变新颜。杭州的老百姓很感谢苏轼做的这件好事，人人都夸他是个贤明的父母官。听说他在徐州、黄州时最喜欢吃猪肉，于是到过年的时候，大家就抬猪担酒来给他拜年。苏轼收到后，便指点家人将肉切成方块，烧得红酥酥的，然后分送给参加疏浚西湖的民工们吃，大家吃后无不称奇，把他送来的肉都亲切地称为“东坡肉”。\n\n
+            追本穷源，苏轼的这种红烧肉最早在徐州的创制，在黄州时得到进一步提高，在杭州时闻名全国\n\n
+        </item>
+        <item>
+            飞龙又名榛鸡，产于兴安岭。飞龙汤是将榛鸡脱毛去掉内脏后，用高汤煮熟即可，汤中不需放任何调料以保持汤原汁原味。飞龙汤肉质鲜美，营养丰富，适合用作滋补汤品。\n\n
+            飞龙（榛鸡）是盛产于兴安岭山林中的一种较小的飞禽。鄂伦春人用飞龙氽汤的方法有两种。一种是将洗净剁成小块的飞龙肉放进已加盐的沸水中煮，约二分钟就须将汤从吊锅子里倒出来，再放上一点"俄欧特"－野葱末后即可食用。另一种是先将盐末撒在飞龙肉上，待吊锅子水滚开时，一手拿着飞龙，另一只手不停地用勺子将吊锅子里的沸水掏出来浇在飞龙肉上，边浇边转，烫至六分熟时，再将整个飞龙连同野葱末一块放进锅里，在沸水中煮十来秒钟就可倒出食用。无论是那一种氽法，事前都必须把吊锅子擦洗干净，使其不沾一点油性。为了使飞龙汤保持原有的鲜味，不得加入任何调料或酱油。\n\n
+        </item>
+        <item>
+            武昌鱼又名团头鲂，因产于鄂州梁子湖而得名，头小体高，面扁背厚，呈菱形，脂肪丰叟，肉味鲜美。\n\n
+            1957年，毛泽东《水调歌头·游泳》发表，诗词中“才饮长沙水，又食武昌鱼”，加大了人们对武昌鱼的兴趣。\n\n
+            1965年，武昌鱼被正式定名为湖北省地方风味菜肴，成为鄂菜的当家美食。\n\n
+            随着时代的发展，烹饪武昌鱼的制作技术不断改进和提高，从传统的蒸、煮、炙三种，发展到清蒸、油焖、网衣、滑溜等多种方法，其中尤以清蒸武昌鱼别具一格，特点是口感滑嫩，清香鲜美\n\n
+
+        </item>
+        <item>
+            龙井虾仁因选用清明节前后的龙井茶配以虾仁制作而得名，是一道具有浓厚地方风味的杭州名菜。\n\n
+            成菜后，虾仁白嫩、茶叶翠绿，色泽淡雅，味美清口。\n\n
+            茶叶入馔，古已有之。据唐《茶赋》载，茶乃“滋饭蔬之精素，攻肉食之膻腻”。\n\n
+            相传，清末安徽的厨师就已在用“雀舌”、“鹰爪”等茶叶去炒河虾仁了。\n\n
+            美食家高阳在《古今食事》里曾提及：“翁同龢创制了一道龙井虾仁，即西湖龙井茶叶炒虾仁，真堪与蓬房鱼匹配。”\n\n
+            相传，杭州厨师受苏东坡词《望江南》“且将新火试新茶，诗酒趁年华”的启发，选用“色绿、香郁、味甘、形美”的明前龙井新茶和鲜河虾仁烹制而成。\n\n
+            20世纪20年代起，龙井虾仁流行于杭州百姓家庭中；30年代时，常熟厨师将其列入菜谱中；1956年，龙井虾仁名列杭州名菜中；1972年美国总统尼克松访华时，周恩来总理在杭州设宴招待，菜单上就有此菜。\n\n
+        </item>
+        <item>
+            红烧狮子头，也叫四喜丸子，是一道淮扬名菜。将有肥有瘦的肉配上荸荠，香菇等材料，做成丸子，先炸后煮，出锅后扑鼻的香味，光闻起来就引动食欲，醇香味浓的肉块与汁液，超级美味。狮子头要柔软好吃，肉最好自己剁， 而且要肥瘦相间的，瘦肉比肥肉稍微多一点。不过，如果时间有限，买现成的肉馅也未尝不可。狮子头要柔软好吃，肉最好自己剁，另一个重点是在容器上，要细火慢炖，以砂锅为最佳，己故国画大师张大千传授夫人的一道拿手好菜就是“红烧狮子头”，大千先生的作法是，七分瘦肉，三分肥肉，细切粗斩，大小要如米粒，不能剁太细，让肉质间保持缝隙，才能含汁。\n\n
+            关于“狮子头”，据说它的“远祖”是南北朝《食经》上所记载的“跳丸炙”（见《齐民要术》，炙法第八十）。 史书记载，当年隋炀帝带着嫔妃随从，乘着龙舟和千艘船只沿大运河南下时，“所过州县，五百里内皆令献食。一州至百舆，极水陆\n\n
+            杨广看了扬州的琼花，特别对扬州万松山、金钱墩、象牙 林、葵花岗四大名景十分留恋。回到行宫后，吩咐御厨以上述四景为题，制作四道菜肴，御厨们在扬州名厨指点下，费尽心思终于做成了松鼠桂鱼、金钱虾饼、象牙鸡条和葵花斩肉这四道菜，杨广品尝后，十分高兴，于是赐宴群臣，一时间淮阳菜肴倾倒朝野。官宦权贵宴请宾客也都以有这四个菜为荣，奉为珍品。到了唐代，随着经济繁荣，官宦权贵们也更加讲究饮食。有一次，郇国公宴客，府中的名厨韦巨元也做了扬州的这四道名菜，并伴以山珍海味，水陆奇珍，令座中宾客们叹为观止。当“葵花斩肉”这道菜端上来时，只见那巨大的肉团子做成的葵花心精美绝伦，有如“雄狮之头”，宾客们乘机劝酒道：“郇国公半生戎马，战功彪炳，应佩狮子帅印。”郇国公高兴的 举 杯一饮而尽，为纪念今日盛会，“葵花斩肉”不如改名“狮子头”。一呼百诺，从此，扬州就添了“狮子头”这道名菜，红烧，清蒸，脍炙人口。\n\n
+        </item>
+        <item>
+            佛跳墙，又名满坛香、福寿全，是福建福州的当地名菜，属闽菜系。相传，它是在清道光年间由福州聚春园菜馆老板郑春发研制出来的。佛跳墙富含营养，可促进发育，美容，延缓衰老，增强免疫力，乃进补佳品。\n\n
+            制作这道美食，工序十分繁琐。佛跳墙的原料有十几种之多，鲍鱼、海参、鱼唇、牦牛皮胶、杏鲍菇、蹄筋、花菇、墨鱼、瑶柱、鹌鹑蛋等。要充分体现每一种食材的口味和特点需要先将这十几种食材分别独立制作成一道菜，再汇聚到一起，加入高汤和绍兴酒，文火煨制十几个小时以上，这种味道才能真正达到醇厚的特点。\n\n
+            1965年和1980年分别在广州南园和香港，以烹制佛跳墙为主的福州菜引起轰动，在世界各地掀起了佛跳墙热。各地华侨开设的餐馆，多用自称正宗的佛跳墙菜，招徕顾客。佛跳墙还接待过西哈努克亲王、美国总统里根、英国女王伊丽莎白等国家元首。\n\n
+        </item>
+        <item>
+            八仙过海闹罗汉是一道名菜，属于孔府菜。原料多样，汤汁浓鲜，色泽美观，形如八仙与罗汉。作为孔府喜寿宴第一道菜，选用鱼翅、海参、鲍鱼、鱼骨、鱼肚、虾、芦笋、火腿为“八仙”。将鸡脯肉剁成泥，在碗底做成罗汉钱状，称为“罗汉”。制成后放在圆瓷罐里，摆成八方，中间放罗汉鸡，上撒火腿片、姜片及氽好的青菜叶，再将烧开的鸡汤浇上即成。旧时此菜上席即开锣唱戏，在品尝美味的同时听戏，热闹非凡，也奢侈至极。\n\n
+        </item>
+        <item>徽州山溪沙层中生长的甲鱼，形如马蹄大小，约四两左右，故称马蹄鳖。做成菜后，肉质鲜嫩，且无泥土之腥气。当地农家早就用其当做食材。\n\n
+                明朝初年，徽州绅士将清炖马蹄鳖作为贡品，进贡给朱元璋皇帝，深得其好感，嗣后即为珍品。\n\n
+                后来，“清炖马蹄鳖”和“火煲果子狸”就作为徽帮烹调特色的代表作品，并名为“歙味双壁”而著称于世。\n\n
+        </item>
+    </string-array>
+
+    <string-array name="food_rank_title"
+                  formatted="false">
+        <item>飞上枝头的北京烤鸭</item>
+        <item>麻婆的愤怒</item>
+        <item>苏小小的醋意</item>
+        <item>抹茶</item>
+        <item>无为熏鸭</item>
+        <item>东坡不懂肉</item>
+        <item>飞龙汤</item>
+        <item>才饮长江水又食武昌鱼</item>
+        <item>龙井虾仁</item>
+        <item>威武狮子头</item>
+        <item>佛急跳墙</item>
+        <item>八仙过海闹罗汉</item>
+        <item>情断马蹄鳖</item>
+    </string-array>
+
+    <string-array name="nearby_rank_content"
+                  formatted="false">
+        <item>太难吃了！</item>
+        <item>又贵又难吃！</item>
+        <item>
+            很多人对怡膳堂的一个深刻印象，肯定包括了玫瑰简餐九曲回肠的拿餐队伍。而今因为麻辣香锅的引入，局势有了变化，在一排窗口的中段突然生出有一条长龙，只逼怡膳堂的侧门。\n\n
+            好不容易从龙尾排到了龙头，拿完菜刷了卡，回头一看方知真正的等待刚刚开始。\n\n
+            这一片的座位，在过去坐满的都是江南小店的主顾，现在都成了没餐没饭、手拿号牌等着叫钟一般的男男女女。我亲自测试过，这样的等待需要13分钟。在这13分钟里，因为怡膳堂的垃圾信号，你可能什么都做不了，上个排位、刷个剧也许都不可能。\n\n
+            因此，排队和等待的漫长25分钟里，你和你的他在一起，能够摩擦出温存还是火花？\n\n
+            我站在桌子边，扫视着眼前坐着苦等的痴男怨女们。然而他们有说有笑，傻傻的人只有我一个。\n\n
+            “你怎么就不跟我说说话？”我低头对着同样低着头的师弟说。“是不是因为我不是女生？”
+            “你明明知道为什么还要问？”师弟的拇指在手机屏幕上徒劳地划动着，顶部的菊花一直在旋转，刷不出新鲜事。\n\n
+            “那琪琪（另一个师妹）也在那边站着，你为什么不照顾一下人家？”\n\n
+            “太熟了，没啥好说的。”师弟头也不抬，依然徒劳的刷着屏幕。\n\n
+            等待总容易让人焦虑，快餐应运而生。然而当人被迫停下来等待的时候，眼前的伙伴是否会有机会在你眼里赢得一方田地？尚在蜜月期的小情侣们仿佛有着说不完的话儿，但当一切都习以为常，眼前人也不过是凡人一个，失去了光环以后，你还会在百无聊赖的时候逗她开心吗？\n\n
+            前后都是低头看着手机的人，他是否也低着头，但只为了看清你眼睛里闪亮的光？\n\n
+            麻辣香锅的辣度有两档可选，不说都是默认微辣，他是否记得你来自辣乡无辣不欢，而特意给窗口师傅说要重辣口味？\n\n
+            点菜的精髓多是荤菜，吃了可能会长胖，他是否依然往你的篮子夹骨肉相连和精品蟹肉？\n\n
+            在你嘟嘴的时候说等会儿可以帮你吃掉，在你说怕胖的时候在你脸上轻轻揪一下说怎样都好怎样都喜欢？\n\n
+            人来人往熙熙攘攘，时间漫长唯你心上，他会否在等待被叫号的时间里和你一起读其他的同龄人唇语？\n\n
+            而不是坐在桌子两端，与你相同各自玩着各自的手机，明知道刷不出东西却就是不想说话？\n\n
+            今天在CC98上，我看到一位姑娘说自己在怡膳堂麻辣香锅竟成了自己与男友的最后一顿。其实，当感情已不再，吃什么都是苦味，也许在麻辣香锅做好之前的那段13分钟的尴尬，成为了压死骆驼的最后一根稻草。\n
+        </item>
+        <item>
+            浙江大学在全国学生们的心中都有着极高的地位，其原因有二：一是浙大的学术氛围，二是浙大周围颇具特色的大小馆子。\n\n
+            自1998年重组到现在，浙大一共有5个校区，其中玉泉校区是最大的一个校区。玉泉校区南门的青芝坞，北门的西溪路一线，都是美食的乐园。在这饕餮美食的海洋里，北门内的留学生食堂，是浙大校周边美食的制高点。\n\n
+            浙大留学生食堂，昵称“留食”，它是玉泉公认的最美味食堂，是杭城最有人气的大学食堂，也是校外人问玉泉美食必答的好去处。\n\n
+            每逢饭点，偌大的“留食”定会坐的满满当当。这里并不一定要刷饭卡，还可以用现金，于是来吃饭的人倒不全是浙大的学生，还有周边的居民，上班的白领，还有打老远慕名而来的食客。\n\n
+            作为杭城公认最美味的食堂，“留食”的物价大约是玉泉众食堂里的最高标准。但是，若拿着“留食”的价格与周边饭馆相比，还是便宜到令人发指。\n\n
+            “留食”里10块钱以下的菜品很多，两人一顿，三四十块钱就能拼出丰盛又奢侈的大餐。糖醋里脊、葱油鲈鱼、剁椒鱼头、东坡肉、八宝油条都有很好的口碑。\n\n
+            “留食”对留学生也很用心，他们的菜单都会做成图片的样子，方便那些中文不流利的留学生点餐，这里几乎就成了留学生们的中餐启蒙。每年都有留学生来这里毕业聚餐，“留食”就单独给这些来自异国的学生们留着地方，精心为他们准备一道道特色美食，为他们送行。\n\n
+        </item>
+        <item>
+            青芝坞位于玉古路北侧，浙大玉泉校区和植物园之间，占地面积约208亩。区域内灵峰水系穿村而过，“灵峰探梅”的出入口就在这里。\n\n
+            村道口，矗立着一块由梁平波题写的“青芝坞”三个大字的景观石。石后，是一汪碧波荡漾的人工湖——“青柳塘”，湖边有亲水平台，有弯曲的亭廊。\n\n
+            村道拓宽成12米，两侧的人行道全部用青石板铺就，有些古时石板巷的感觉。村道边，还有一条自灵峰探梅引水下来的小溪。\n\n
+            青芝坞里的176幢农居，全部进行了改建，白墙黑瓦，花草藤蔓，一个个开放式小庭院好看又别致。\n\n
+        </item>
+        <item>
+            大学里的你，是不是一直梦想着能有一个既靠近教学区，又足够舒适温暖，饿了还有饮品甜点的“完美自习地点”……\n\n
+            今天上午，这个看似不可能的“梦想”随着浙江大学紫金港东教学区学生文化长廊——麦思威咖啡吧的开业而实现啦！先来看一波图片撩拨一下你的小心脏——\n\n
+            浅棕色的木质地板，简约的布艺沙发，错落的书架，清新的绿植，极具艺术气息的摆件和挂画……改造一新的麦思威咖啡吧由原来一个逼仄的小吧台变成了一个两层楼的大空间。不仅如此，还通过不同的桌椅组合形成了多个不同的空间：若是一个人，一本书或者一台电脑，那么临湖的高脚椅会是不错的选择；若是几个小伙伴相约自习，靠墙的硬质桌椅再合适不过了；若是小组讨论，则可以选择舒适的沙发和茶几；又或者是想开一个小小的会议，单独的玻璃房简直完美。\n\n
+            另外，每一套桌椅都配有插座哦,再也不用担心电脑没电啦~\n\n
+            咖啡吧的营业时间为早上7:30至晚上22:00，完全配合学生的作息!\n\n
+            天朗气清的午后，点一杯咖啡，临湖而坐，阳光斜斜地洒下来，读一本书亦或是写一段文，真是想想都美好呢~\n\n
+            不仅仅是环境氛围的改善，咖啡的品质也有很大的提升:\n\n
+            除了从Costa聘请了经验丰富的咖啡师，麦思威还添置了一台全新的咖啡机，据后勤集团饮食服务中心负责人林旭昌介绍，这是目前全球科技含量最高的意式半自动咖啡机，每个萃取口都有独立的温控系统，充分保证了咖啡豆的萃取质量。\n\n
+            小编偷偷告诉你，价格很亲民哦：美式咖啡只要8元、麦斯威咖啡10元、拿铁咖啡13元……小编纵观全局，发现最贵的一杯咖啡也没有超过20元哦！\n\n
+            更值得一提的是，麦思威咖啡吧立志于打造“浙大人的专属咖啡”，室内装饰陈设都打上了浓浓的浙大烙印。大厅里的水晶吊灯装饰，叶片有心的拼成了求是鹰的图案；楼梯旁的装饰墙用心绘上了校徽、竺老校长以及西迁校史等浙大元素。除此之外，咖啡吧的整体布置由浙大人参与设计，甚至玄关处的宣传海报和墙上的艺术挂画也都是出自浙大学生之手\n\n
+            结束了吗？远远没有！全新的麦思威还有一大特色——集书吧和咖啡吧为一体，立志打造书香咖啡吧。简单大气的木质书架既是有效的隔断，又为咖啡吧增添了浓浓的书卷气。据负责人介绍，不久以后，这些书架上都将放上同学们需要的书籍，方便同学们取阅。而随着学生文化长廊的进一步建设，麦思威还将在咖啡吧的旁边建立小型书吧和茶吧，打造三位一体的学生活动空间。\n\n
+            如此高大上的咖啡吧，就建在浙大紫金港东区教学楼内，怎能不让老师同学们心旷神怡呢！\n\n
+            值得一提，这是浙江大学校园内第36家师生交流吧。作为紫金港东教学区学生文化长廊文化长廊的一部分，咖啡吧为的是让同学老师多一片交流学习的空间。\n\n
+            随着120校庆日益临近，浙大校友回到母校又多了一个聚会交流的好地方哦！\n\n
+        </item>
+        <item>牛排很不错，风景秀丽。课挤在中午的时候会在临湖吃饭。</item>
+        <item>
+            听说，如今大鸡腿已经逐渐成了同学之间的流通“货币”，甚至还有同学以大鸡腿为论文题目进行研究。每当有外校同学来探望，都会迫不及待地发出请求——“带我去吃大鸡腿”。\n\n
+            浙大大鸡腿，将一个鸡腿剖开后，用2根长棒支撑起主干，3根短棒固定侧翼，形成扇形的造型，好似鹰形校徽。独特的造型，也决定了它的味道要胜人一筹。\n\n
+
+            科学地说，普通的大鸡腿，纵然表面再好吃，它紧贴骨头的部分依旧难以入味浙大大鸡腿有所不同，美味轻而易举的渗透其中，让品尝的人越尝越难以自拔。打个比方，一个鸡蛋再怎么煮，里面蛋黄的味道还是挺难入味的，而把一个煎蛋煮了又煮，好味道肯定逃不掉。——浙大大鸡腿美味就是这个理。（童鞋们，不服来辩！！！）\n\n
+            香嫩的鸡肉伴随着孜然的香味，在牙齿与舌头之间交错着，让人充斥着一种幸福的矛盾感——鸡腿太过美味，想要快点再咬下一口；鸡腿快吃完了，舍不得，想要多吃一会儿。\n\n
+            据不完全统计，大约在2007年，第一根浙大大鸡腿诞生，从此，逐步风靡了三墩人民公园。大鸡腿，为启真湖畔的学子，开拓了崭新的浙大夜生活。科科，还有一句不知道从哪里冒出来的话，“没吃过大鸡腿的浙大人，不足以谈人生。”\n\n
+        </item>
+        <item>
+            浙江大学风味餐厅～位于浙江大学紫金港校区大食堂的一楼东边～
+            这个餐厅是以经营各地不同风味的菜肴为主。有：西北风味，川渝风味，8090，云南风味，江浙口味等等。
+            很可惜，木有湖南风味，太令人难过了。
+            个人最喜欢的是#辣子鸡#在川菜那边，6元一份，价格小贵，但是味道不错，是我在紫金港吃的唯一的觉得能算辣的东西吧。而且是我吃到的少有的不裹面粉的纯辣子鸡。辣椒很香，看图～
+            以前很喜欢吃铁板饭和盖浇饭，价格在6-8元，但是现在涨价了，性价比较高的是#鱼香茄子#。
+            云南风味那边的#炒粉干#很好吃～然后还有#印度飞饼#价格实惠，我很喜欢吃水果飞饼～
+            西北风味的特点是量大，因此很多男生爱吃～
+            还有一大特色是有蛋糕卖。最爱的是现做的#蛋卷#总是要排很久的队伍才有呢～
+
+        </item>
+        <item>
+            日本料理起源于日本列岛，逐渐发展成为独具日本特色的菜肴。日本和食要求色自然、味鲜美、形多样、器精良，而且材料和调理法重视季节感。\n\n
+            日本料理，通常也指日本饭菜。当提到日本料理时，许多人会联想到寿司、生鱼片，或是摆设非常精致，有如艺术的怀石料理。然而，对许多日本人来说，日本料理是日常的传统饮食，特别是在明治时代末期所形成的饮食。传统的日本料理主食是米饭，然后再配上其他菜肴——鱼、肉、蔬菜、酱菜，以及汤。料理的名称则是用这些菜肴的数目来命名。举例来说，最简单的日本餐是“单菜餐”（日本语：一汁一菜/いちじゅういっさい），内容是一碟酱菜（通常是腌黄萝卜）\n\n
+            主食以米饭、面条为主，因为靠近大海所以副食多为新鲜鱼虾等海产，常配以日本酒。和食以清淡著称，烹调时尽量保持材料本身的原味。\n\n
+            在日本料理的制作上，要求材料新鲜，切割讲究，摆放艺术化，注重“色、香、味、器”四者的和谐统一，尤其是不仅重视味觉，而且很重视视觉享受。和食要求色自然、味鲜美、形多样、器精良。而且，材料和调理法重视季节感。\n\n
+            一位好的料理师必须成为食用者与大自然之间的桥梁，在料理师用心细致的烹调下，让客人尝到最地道的天然美味。\n\n
+            日本料理烹调的特色着重自然的原味，不容置疑的，[原味]是日本料理首要的精神。其烹调方式，从数小时慢火熬制的高汤、调味与烹调手法，均以保留食物的原味为前提。\n\n
+            日本料理的美味秘诀，基本上是以糖、醋、味精、酱油、柴鱼、昆布等为主要的调味料，除了品尝香味以外，味觉，触觉、视觉、嗅觉等亦不容忽视。\n\n
+            除了以上烹调色以外，吃也有学问，一定要[热的料理趁热吃]、[冰的料理趁冰吃]如此便能够在口感、时间与料理食材上才能相互辉映，达到百分之百的绝妙口感\n\n
+        </item>
+
+        <item>
+            1998年，耶稣堂弄里，一家叫“白鹿”的餐厅正式开始营业。在那个年代，这家店就在杭州掀起了第一阵杭儿风。\n\n
+            作为排队鼻祖，高性价比是它的第一张王牌。服务上顾客可以无理由退换菜品，环境上投入了巨资，菜色口味新鲜实惠…正是这种永远把顾客体验放在第一位的匠心，才让新白鹿一步步走到了今天。\n\n
+            种模式当年并不被看好，很多餐饮人都想不通，这么低利润地经营餐厅真的没有问题吗？新白鹿掌门人周文源却一直这样坚持了将近20年，他心里只在乎顾客这次用餐有没有得到更好的体验。\n\n
+            从第一家满怀食客记忆的耶稣堂弄店拆迁，以及新白鹿品牌的不断升级，19年来，它已经成为杭城人民心中的知名餐厅。\n\n
+            新白鹿的蝶变无疑是惊艳的，欧式复古装修，带着花环的草原之鹿，每一处环境细节都透露出轻奢的调调。\n\n
+            老沈最喜欢的蛋黄子排，就是周文源自创的菜品。子排外那层粉糯的蛋黄永远令人着迷，和细腻的肉质相互融合，口腔中粗中有细，细中有粗的快感让这道菜成了必点之一。\n\n
+            还有糖醋排骨，除了口味地道，最诱人的就是它的价格，物价飞涨的年代也才要5块钱一盘。这是拿着买白菜的钱吃了一顿肉的现实案例了。\n\n
+            新白鹿还是按照老餐饮的方式，买最新鲜的菜场食材，每个分店在厨房烹饪加工。很少有食客知道的是，新白鹿的后厨都有鱼缸，喂养着鲜活的水产，坚决不搞半成品只加热就上桌的事儿。\n\n
+            获得了一定的市场后，周文源开始思考：除了老底子杭帮菜，能不能有些其他新式菜系呢？于是，新白鹿结合川味特色的菜肴诞生了。
+\n\n
+
+        </item>
+        <item>“Mojito”诞生于1910年的古巴，美国作家海明威（Ernest Hemingway）在古巴首都哈瓦那居住时，经常挂在嘴边的一句话就是“我的Daiquiri在La Floridita（哈瓦那著名酒吧），我的Mojito在Bodeguita（哈瓦那著名酒吧）”，可见其对这两款鸡尾酒的喜爱。</item>
+        <item>第二乐章，杭州最新民一家连锁饭店，主营杭帮菜，菜肴种类多颇多，菜品精致，很适合当地人的品味不错。做为新版“外婆家”，餐厅推出了新品菜肴，其招牌菜牛仔骨炒年糕，年糕香糯混着牛肉独有的香味，真想一口吃完整盘。——牛仔骨经腌制后，肉质一点都不老，与年糕一起爆炒，香味浓郁，叫人食指大动。还有顺溜鸡，香滑细嫩，每桌必点，咕咾肉、薄荷鸡翅等，都颇具特色，价格实惠，很适合当地人聚餐。中式化的装修，餐厅以金黄色为主调，大厅一排排红色的卡座，让人感觉舒适整洁适，门口还有可爱的小挂钩，是专为食客挂包用有，服务贴心周到。</item>
+    </string-array>
+
+    <string-array name="nearby_rank_title"
+                  formatted="false">
+        <item>浙大一食堂</item>
+        <item>浙大二食堂</item>
+        <item>怡膳堂</item>
+        <item>留学生餐厅</item>
+        <item>北街炒粉干</item>
+        <item>麦斯威</item>
+        <item>临湖餐厅</item>
+        <item>浙大大鸡腿</item>
+        <item>风味餐厅</item>
+        <item>尚品日料</item>
+        <item>新白鹿</item>
+        <item>Mojito</item>
+        <item>第二乐章</item>
+    </string-array>
+
+
+    <!-- General Settings -->
+    <string name="pref_step_counter_enabled" translatable="false">com.example.nuc.pref.step_counter_enabled</string>
+
+    <string name="pref_default_daily_step_goal" translatable="false">10000</string>
+    <string name="pref_title_daily_step_goal">Personal daily step goal</string>
+    <string name="pref_unit_of_length" translatable="false">com.example.nuc.caloriemanager.pref.unit_of_length</string>
+    <string name="pref_title_unit_of_length">Unit of length</string>
+    <string-array name="pref_keys_unit_of_length">
+        <item>kilometers</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="pref_values_unit_of_length" translatable="false">
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+    <string name="unit_of_length_km">1|km|kilometers|km/h|1000|m</string><!-- 1km = 1km -->
+    <string name="unit_of_length_mi">0.621371|mi|miles|mph|5280|ft</string><!-- 1km = 0.621371 miles -->
+    <string name="pref_unit_of_energy" translatable="false">com.example.nuc.caloriemanager.pref.unit_of_energy</string>
+    <string name="pref_title_unit_of_energy">Unit of energy</string>
+    <string-array name="pref_keys_unit_of_energy">
+        <item>calories</item>
+        <item>joules</item>
+    </string-array>
+    <string-array name="pref_values_unit_of_energy" translatable="false">
+        <item>cal</item>
+        <item>J</item>
+    </string-array>
+
+    <!-- notification settings -->
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_group_title_permanent_notification">Permanent Notification</string>
+    <string name="pref_group_title_motivation_alert">Motivation Alert</string>
+
+    <string name="pref_notification_permanent_show_steps" translatable="false">com.example.nuc.caloriemanager.pref.permanent_notification_show_steps</string>
+    <string name="pref_title_notification_permanent_show_steps">Show number of steps walked today</string>
+    <string name="pref_notification_permanent_show_distance" translatable="false">com.example.nuc.caloriemanager.pref.permanent_notification_show_distance</string>
+    <string name="pref_title_notification_permanent_show_distance">Show distance walked today</string>
+    <string name="pref_notification_permanent_show_calories" translatable="false">com.example.nuc.caloriemanager.pref.permanent_notification_show_calories</string>
+    <string name="pref_title_notification_permanent_show_calories">Show number of calories</string>
+
+    <string name="pref_notification_motivation_alert_enabled" translatable="false">com.example.nuc.caloriemanager.pref.motivation_alert_enabled</string>
+    <string name="pref_title_notification_motivation_alert_enabled">Enable motivation alert</string>
+    <string name="pref_notification_motivation_alert_time" translatable="false">com.example.nuc.caloriemanager.pref.motivation_alert_time</string>
+    <string name="pref_title_notification_motivation_alert_time">Motivation alert time</string>
+    <string name="pref_notification_motivation_alert_texts" translatable="false">com.example.nuc.caloriemanager.pref.motivation_alert_texts</string>
+    <string name="pref_title_notification_motivation_alert_texts">Motivation notification texts</string>
+    <string name="pref_notification_motivation_alert_criterion" translatable="false">com.example.nuc.caloriemanager.pref.motivation_alert_criterion</string>
+    <string name="pref_title_notification_motivation_alert_criterion">Motivation alert criterion</string>
+
+    <string-array name="array_menu">
+        <item>Ranking</item>
+        <item>Menu1</item>
+        <item>Menu2</item>
+        <item>Menu3</item>
+        <item>Menu4</item>
+        <item>Menu5</item>
+        <item>Menu6</item>
+        <item>Menu7</item>
+        <item>Menu8</item>
+        <item>Menu9</item>
+        <item>Menu10</item>
+        <item>Menu11</item>
+        <item>Menu12</item>
+        <item>Menu13</item>
+        <item>Menu14</item>
+    </string-array>
+
+    <string name="pref_weight" translatable="false">com.example.nuc.caloriemanager.pref.weight</string>
+    <string name="pref_title_weight">Weight (kg)</string>
+    <string name="pref_default_weight" translatable="false">65.0</string>
+
+    <string name="pref_gender" translatable="false">com.example.nuc.caloriemanager.pref.gender</string>
+    <string name="pref_title_gender">Gender</string>
+
+
+    <!-- ReportFragment -->
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="steps">今日步数</string>
+    <string name="calories">calories</string>
+    <string name="activity_summary_subtitle">运动总计</string>
+    <string name="activity_chart_summary_subtitle">Detailed summary of your activities</string>
+    <string name="summary_card_kilocalories">千卡</string>
+    <string name="summary_card_calories">卡</string>
+    <string name="correct_steps">Correct steps</string>
+    <string name="correct_steps_dialog_title">Correct steps</string>
+    <string name="correct_steps_dialog_message">Please provide a new number of steps you walked.</string>
+    <string name="hint_steps">Number of steps</string>
+    <string name="pause_step_detection">Pause step detection</string>
+    <string name="continue_step_detection">Continue step detection</string>
+    <string name="reading_navaigatiop">推荐阅读</string>
+
+    <string name="joules">J</string>
+    <string name="kilojoules">kJ</string>
+
+    <string-array name="pref_default_walking_mode_names">
+        <item>Walking</item>
+        <item>Running</item>
+    </string-array>
+    <string-array name="pref_default_walking_mode_step_lenghts" translatable="false">
+        <item>0.5</item><!-- step length in meters -->
+        <item>0.7</item>
+    </string-array>
+
+    <string name="pref_accelerometer_threshold" translatable="false">com.example.nuc.caloriemanager.pref.accelerometer_threshold</string>
+    <string name="pref_title_accelerometer_threshold">Sensitivity</string>
+    <string name="pref_accelerometer_steps_threshold" translatable="false">com.example.nuc.caloriemanager.pref.accelerometer_step_threshold</string>
+    <string name="pref_title_accelerometer_steps_threshold">Steps before counting starts</string>
+    <string name="pref_default_accelerometer_steps_threshold" translatable="false">10</string>
+
+
+    <string name="pref_use_wake_lock" translatable="false">com.example.nuc.caloriemanager.pref.use_wake_lock</string>
+    <string name="pref_title_use_wake_lock">Keep processor awake</string>
+    <string name="pref_summary_use_wake_lock">On some devices the processor falls asleep and prevents counting steps. Enable this to keep the processor awake while counting steps - this may drain your battery!</string>
+
+    <!-- Will be removed on next update -->
+    <string name="pref_daily_step_goal" translatable="false">com.example.nuc.caloriemanager.pref.daily_step_goal</string>
+    <string name="notification_text_steps">%1$s of %2$s steps walked today.</string>
+    <string name="notification_text_distance">%1$.2f %2$s walked today.</string>
+    <string name="notification_text_calories">Burned %.2f kcal today.</string>
+    <string name="notification_text_default">Pedometer is active.</string>
+    <!-- /Will be removed on next update -->
+
+    <string name="pref_walking_mode_learning_active" translatable="false">com.example.nuc.caloriemanager.pref.walking_mode_learning_active</string>
+    <!-- motivation alert -->
+    <string-array name="pref_default_notification_motivation_alert_messages">
+        <item>Come on, it\'s time to walk!</item>
+    </string-array>
+    <string name="motivation_alert_empty">Set custom alert messages when the achievement of your daily step goal is in danger.\n\nThere will be no alert if no message exists.</string>
+    <string name="motivation_alert_input_title">Set motivation alert message</string>
+    <string name="motivation_alert_input_message">Set your own custom motivation alert. The app notifies you with one of your texts randomly.</string>
+    <string name="motivation_alert_input_empty">Empty motivation alerts are useless, aren\'t they?</string>
+    <string name="activity_title_motivation_alerts">Motivation alerts</string>
+    <string name="motivation_alert_notification_title">Step Counter</string>
+
+    <string name="pref_show_velocity" translatable="false">com.example.nuc.caloriemanager.pref.show_velocity</string>
+
+    <!-- /notification settings -->
+    <string name="pref_header_walking_modes">Walking modes</string>
+    <string name="pref_widget_data_set" translatable="false">com.example.nuc.caloriemanager.pref.widget_data_set_</string>
+    <string name="pref_distance_measurement_start_timestamp" translatable="false">com.example.nuc.caloriemanager.pref.distance_measurement_start_timestamp</string>
+    <string name="pref_hw_steps_on_last_save" translatable="false">com.example.nuc.caloriemanager.pref.hw_steps_on_last_save</string>
+    <string name="title_activity_myset">MysetActivity</string>
+    <!-- /Preferences -->
+
+
+</resources>

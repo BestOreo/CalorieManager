@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5202</color>
+    <color name="colorPrimaryDark">#f7460505</color>
+    <color name="colorAccent">#86013f</color>
+    <color name="bg_app">#F1F1F1</color>
+    <color name="transparent">#00000000</color>
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="bg_btn">#dadada</color>
+    <color name="some_transparent">#b71c1c</color>
+    <color name="color_maincircle">#ff8800</color>
+    <color name="color_circleoutside">#fdab58</color>
+
+
+    <color name="darkgrey">#757575</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="middlegrey">#A8A8A8</color>
+    <color name="yellow">#f6d126</color>
+    <color name="green">#388E3C</color>
+</resources>

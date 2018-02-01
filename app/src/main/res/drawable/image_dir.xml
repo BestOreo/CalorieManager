@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0" android:drawable="@drawable/textimage0" />
+    <item android:maxLevel="1" android:drawable="@drawable/textimage1" />
+    <item android:maxLevel="2" android:drawable="@drawable/textimage2" />
+    <item android:maxLevel="3" android:drawable="@drawable/textimage3" />
+
+
+    <item android:maxLevel="100" android:drawable="@drawable/sportsimage0" />
+    <item android:maxLevel="101" android:drawable="@drawable/sportsimage1" />
+    <item android:maxLevel="102" android:drawable="@drawable/sportsimage2" />
+    <item android:maxLevel="103" android:drawable="@drawable/sportsimage3" />
+    <item android:maxLevel="104" android:drawable="@drawable/sportsimage4" />
+    <item android:maxLevel="105" android:drawable="@drawable/sportsimage5" />
+    <item android:maxLevel="106" android:drawable="@drawable/sportsimage6" />
+    <item android:maxLevel="107" android:drawable="@drawable/sportsimage7" />
+    <item android:maxLevel="108" android:drawable="@drawable/sportsimage8" />
+    <item android:maxLevel="109" android:drawable="@drawable/sportsimage9" />
+    <item android:maxLevel="110" android:drawable="@drawable/sportsimage10" />
+    <item android:maxLevel="111" android:drawable="@drawable/sportsimage11" />
+    <item android:maxLevel="112" android:drawable="@drawable/sportsimage12" />
+
+    <item android:maxLevel="200" android:drawable="@drawable/foodimage0" />
+    <item android:maxLevel="201" android:drawable="@drawable/foodimage1" />
+    <item android:maxLevel="202" android:drawable="@drawable/foodimage2" />
+    <item android:maxLevel="203" android:drawable="@drawable/foodimage3" />
+    <item android:maxLevel="204" android:drawable="@drawable/foodimage4" />
+    <item android:maxLevel="205" android:drawable="@drawable/foodimage5" />
+    <item android:maxLevel="206" android:drawable="@drawable/foodimage6" />
+    <item android:maxLevel="207" android:drawable="@drawable/foodimage7" />
+    <item android:maxLevel="208" android:drawable="@drawable/foodimage8" />
+    <item android:maxLevel="209" android:drawable="@drawable/foodimage9" />
+    <item android:maxLevel="210" android:drawable="@drawable/foodimage10" />
+    <item android:maxLevel="211" android:drawable="@drawable/foodimage11" />
+    <item android:maxLevel="212" android:drawable="@drawable/foodimage12" />
+
+    <item android:maxLevel="300" android:drawable="@drawable/nearbyimage0" />
+    <item android:maxLevel="301" android:drawable="@drawable/nearbyimage1" />
+    <item android:maxLevel="302" android:drawable="@drawable/nearbyimage2" />
+    <item android:maxLevel="303" android:drawable="@drawable/nearbyimage3" />
+    <item android:maxLevel="304" android:drawable="@drawable/nearbyimage4" />
+    <item android:maxLevel="305" android:drawable="@drawable/nearbyimage5" />
+    <item android:maxLevel="306" android:drawable="@drawable/nearbyimage6" />
+    <item android:maxLevel="307" android:drawable="@drawable/nearbyimage7" />
+    <item android:maxLevel="308" android:drawable="@drawable/nearbyimage8" />
+    <item android:maxLevel="309" android:drawable="@drawable/nearbyimage9" />
+    <item android:maxLevel="310" android:drawable="@drawable/nearbyimage10" />
+    <item android:maxLevel="311" android:drawable="@drawable/nearbyimage11" />
+    <item android:maxLevel="312" android:drawable="@drawable/nearbyimage12" />
+
+
+
+</level-list>

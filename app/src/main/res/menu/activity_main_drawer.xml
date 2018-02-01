@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_discover"
+            android:icon="@drawable/ic_discover_white_24dp"
+            android:title="@string/discover"/>
+        <item
+            android:id="@+id/nav_statistic"
+            android:icon="@drawable/ic_message_white_24dp"
+            android:title="@string/statistic"/>
+    </group>
+
+    <item android:title="@string/system">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_discover_white_24dp"
+                android:title="@string/login"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/takepicture">
+        <menu>
+            <item
+                android:id="@+id/nav_takepic"
+                android:icon="@drawable/ic_photo_camera_white_24dp"
+                android:title="识别"/>
+            <item
+                android:id="@+id/nav_seeresult"
+                android:icon="@drawable/ic_menu_white_24dp"
+                android:title="结果"/>
+            <!--<item-->
+                <!--android:id="@+id/nav_showdatabase"-->
+                <!--android:icon="@drawable/ic_menu_white_24dp"-->
+                <!--android:title="showdata"/>-->
+        </menu>
+    </item>
+
+    <item android:title="Set">
+        <menu>
+            <item
+                android:id="@+id/nav_set"
+                android:icon="@drawable/ic_settings_grey_500_24dp"
+                android:title="设置"/>
+        </menu>
+    </item>
+</menu>

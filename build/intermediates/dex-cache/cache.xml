@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geshuaiqi/大三上/CalorieManager_F/app/libs/mpandroidchartlibrary-2-1-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f58cc07df07ce418ae9b0336659ee1a69dd21fb3">
+        <dex dex="/Users/geshuaiqi/大三上/CalorieManager_F/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-1-3_ba2da2f438c795c90482cc026d1ca501f4d76e8c.jar" />
+    </item>
+
+</items>

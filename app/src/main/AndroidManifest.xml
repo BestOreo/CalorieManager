@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.nuc.caloriemanager">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/calorie"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/calorie"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"/>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.nuc.caloriemanager.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/filepaths"/>
+        </provider>
+
+        <activity android:name=".showdatabase"/>
+        <activity android:name=".detail"/>
+        <activity android:name=".Statistic">
+        </activity>
+
+        <receiver android:name=".receivers.OnBootCompletedBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".receivers.OnPackageReplacedBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".receivers.OnShutdownBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+                <!-- this is for some htc devices (and others) -->
+                <action android:name="android.intent.action.QUICKBOOT_POWEROFF"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".receivers.StepCountPersistenceReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.example.nuc.caloriemanager.WALKING_MODE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".receivers.HardwareStepCountReceiver"/>
+        <receiver android:name=".receivers.MotivationAlertReceiver"/>
+
+        <service android:name=".services.HardwareStepCounterService"/>
+        <service android:name=".services.AccelerometerStepDetectorService"/>
+        <service
+            android:name=".services.HardwareStepDetectorService"
+            android:stopWithTask="false"/>
+
+        <activity
+            android:name=".MysetActivity"
+            android:label="@string/title_activity_myset"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>
